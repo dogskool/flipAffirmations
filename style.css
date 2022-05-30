@@ -27,12 +27,10 @@ a {
 	font-size:18px;
 	padding-left:10px;
 	transition: 0.5s;
-	transition-timing-function: linear;
+	transition-timing-function: ease-in;
 	font-family: 'Arimo', serif;
 	font-style: bold;
-	background-image: linear-gradient(to right bottom, #85bb65, #85bb65);
-	color: transparent;
-	-webkit-background-clip: text;
+	color: #85bb65;
 	text-decoration: none;
 }
 
