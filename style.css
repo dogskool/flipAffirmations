@@ -66,10 +66,13 @@ body{
 
 .btn{
 	color: black;
+	border: 3px solid #000000;
+	line-height: 15px;
 }
 
 .btn:hover{
-	color: #85bb56;
+	color: #07111D;
+	border: 3px solid #000000;
 }
 
 .author:hover{
