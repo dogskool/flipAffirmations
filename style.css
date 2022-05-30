@@ -30,10 +30,8 @@ a {
 	transition-timing-function: ease-in;
 	font-family: 'Arimo', serif;
 	font-style: bold;
-	background-image: linear-gradient(#85bb65, #85bb65, #85bb65);
-	color: transparent;
-	-webkit-background-clip: text;
-	text-decoration: underline;
+	color: #85bb65;
+
 }
 
 
