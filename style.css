@@ -64,13 +64,13 @@ body{
 	font-family: 'Georgia', serif;
 }
 
-.btn{
+.btn-default{
 	color: black;
 	border: 3px solid #000000;
 	line-height: 15px;
 }
 
-.btn:hover{
+.btn-default:hover{
 	color: #07111D;
 	border: 3px solid #000000;
 }
