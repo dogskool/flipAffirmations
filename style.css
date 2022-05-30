@@ -64,6 +64,11 @@ body{
 	font-family: 'Georgia', serif;
 }
 
+.btn{
+	color: black;
+	font-family: 'Georgia', serif;
+}
+
 .author:hover{
 	opacity: 0.6;
 	font-family: 'Georgia', serif;
