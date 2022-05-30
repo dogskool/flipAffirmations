@@ -10,6 +10,11 @@ body{
 	transition-timing-function: ease-in;
 	background-image: linear-gradient(black, black, black);
 }
+
+a {
+	color: black;
+	border: 3px solid #000000;
+}
 	
 .quote-box{
 	padding:3rem;
@@ -64,16 +69,17 @@ body{
 	font-family: 'Georgia', serif;
 }
 
-.btn-default{
+.btn{
 	color: black;
 	border: 3px solid #000000;
 	line-height: 15px;
 }
 
-.btn-default:hover{
+.btn:hover{
 	color: #07111D;
 	border: 3px solid #000000;
 }
+
 
 .author:hover{
 	opacity: 0.6;
