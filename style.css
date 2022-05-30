@@ -18,8 +18,8 @@ a {
 	
 .quote-box{
 	padding:3rem;
-	transition: 0.5s;
-	transition-timing-function: linear;
+	transition: 0.3s;
+	transition-timing-function: ease;
 
 }
 	
