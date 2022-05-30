@@ -44,7 +44,7 @@ const displayQuote = () =>{
 
 	// Making the author anonymous if no author is present
 	if(!author){
-		author = "Anonymous"
+		author = "so mot hyt be!"
 	}
 
 	// Replacing the current quote and the author with a new one
