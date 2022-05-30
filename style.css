@@ -107,7 +107,7 @@ left: 12%;
 }
 
 .block__main {
-	min-width: 100vw;
+	min-width: 80vw;
 	position: absolute;
 	transition: all .8s ease;
 	backface-visibility: hidden;
