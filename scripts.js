@@ -233,7 +233,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I do not need people‚Äôs approval of my happiness.",
+    text: "I do not need people's approval of my happiness.",
     author: "so mot hyt be!"
   },
 
@@ -263,7 +263,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I am responsible for devising my life‚Äôs master plan.",
+    text: "I am responsible for devising my life's master plan.",
     author: "so mot hyt be!"
   },
 
@@ -762,7 +762,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I‚Äôm worthy of all the good things in the world, as I am strong and courageous",
+    text: "I'm worthy of all the good things in the world, as I am strong and courageous",
     author: "so mot hyt be!"
   },
 
@@ -1047,7 +1047,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I won‚Äôt get scared of the financial crisis because I have a plan",
+    text: "I won't get scared of the financial crisis because I have a plan",
     author: "so mot hyt be!"
   },
 
@@ -1142,7 +1142,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I will accept that I have a bitter past but I will make sure that my past won‚Äôt define me",
+    text: "I will accept that I have a bitter past but I will make sure that my past won't define me",
     author: "so mot hyt be!"
   },
 
@@ -1682,7 +1682,7 @@ let data = affirm(); */
   },
 
   {
-    text: "It‚Äôs okay if I make mistakes and am not perfect.",
+    text: "It's okay if I make mistakes and am not perfect.",
     author: "so mot hyt be!"
   },
 
@@ -2322,7 +2322,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I am safe when I‚Äôm near other people.",
+    text: "I am safe when I'm near other people.",
     author: "so mot hyt be!"
   },
 
@@ -2757,7 +2757,7 @@ let data = affirm(); */
   },
 
   {
-    text: "If it‚Äôs not meaningful, I don't need it.",
+    text: "If it's not meaningful, I don't need it.",
     author: "so mot hyt be!"
   },
 
@@ -2772,7 +2772,7 @@ let data = affirm(); */
   },
 
   {
-    text: "If I haven‚Äôt needed it in a year, I can survive without it.",
+    text: "If I haven't needed it in a year, I can survive without it.",
     author: "so mot hyt be!"
   },
 
@@ -2792,12 +2792,12 @@ let data = affirm(); */
   },
 
   {
-    text: "I don‚Äôt have to declutter my whole house in a day, just one area.",
+    text: "I don't have to declutter my whole house in a day, just one area.",
     author: "so mot hyt be!"
   },
 
   {
-    text: "I don‚Äôt have to declutter my whole house in a day, just one area.",
+    text: "I don't have to declutter my whole house in a day, just one area.",
     author: "so mot hyt be!"
   },
 
@@ -3332,7 +3332,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I am free to choose, and today I choose what‚Äôs best for my health.",
+    text: "I am free to choose, and today I choose what's best for my health.",
     author: "so mot hyt be!"
   },
 
@@ -3552,7 +3552,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I am grateful for where I am in life as I look forward to where I‚Äôm going.",
+    text: "I am grateful for where I am in life as I look forward to where I'm going.",
     author: "so mot hyt be!"
   },
 
@@ -5499,7 +5499,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I‚Äôm willing to learn and grow",
+    text: "I'm willing to learn and grow",
     author: "so mot hyt be!"
   },
 
@@ -5544,12 +5544,12 @@ let data = affirm(); */
   },
 
   {
-    text: "I do my best and that‚Äôs enough",
+    text: "I do my best and that's enough",
     author: "so mot hyt be!"
   },
 
   {
-    text: "I am inspired by other people‚Äôs success",
+    text: "I am inspired by other people's success",
     author: "so mot hyt be!"
   },
 
@@ -5559,7 +5559,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I have my own standards of success and don‚Äôt need to fulfill those of others",
+    text: "I have my own standards of success and don't need to fulfill those of others",
     author: "so mot hyt be!"
   },
 
@@ -5629,7 +5629,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I don‚Äôt accept negative thoughts, I understand them",
+    text: "I don't accept negative thoughts, I understand them",
     author: "so mot hyt be!"
   },
 
@@ -5654,7 +5654,7 @@ let data = affirm(); */
   },
 
   {
-    text: "The reality now is, I‚Äôm at my best and I‚Äôm not going to quit",
+    text: "The reality now is, I'm at my best and I'm not going to quit",
     author: "so mot hyt be!"
   },
 
@@ -5683,12 +5683,12 @@ let data = affirm(); */
   },
 
   {
-    text: "I fail but I‚Äôm not my failures",
+    text: "I fail but I'm not my failures",
     author: "so mot hyt be!"
   },
 
   {
-    text: "My struggles don‚Äôt define me",
+    text: "My struggles don't define me",
     author: "so mot hyt be!"
   },
 
@@ -5708,7 +5708,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I‚Äôve analyzed all the options and are ready to make the best choice",
+    text: "I've analyzed all the options and are ready to make the best choice",
     author: "so mot hyt be!"
   },
 
@@ -5753,7 +5753,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I‚Äôm the only one who can fulfill my unique purpose on this earth",
+    text: "I'm the only one who can fulfill my unique purpose on this earth",
     author: "so mot hyt be!"
   },
 
@@ -5778,7 +5778,7 @@ let data = affirm(); */
   },
 
   {
-    text: "It‚Äôs incredible that I am unique",
+    text: "It's incredible that I am unique",
     author: "so mot hyt be!"
   },
 
@@ -5798,7 +5798,7 @@ let data = affirm(); */
   },
 
   {
-    text: "My self-worth isn‚Äôt what someone thinks of me but what I think of myself",
+    text: "My self-worth isn't what someone thinks of me but what I think of myself",
     author: "so mot hyt be!"
   },
 
@@ -5813,7 +5813,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I don‚Äôt need to feel superior to feel worthy",
+    text: "I don't need to feel superior to feel worthy",
     author: "so mot hyt be!"
   },
 
@@ -5853,7 +5853,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I am proud of myself because I didn‚Äôt give up",
+    text: "I am proud of myself because I didn't give up",
     author: "so mot hyt be!"
   },
 
@@ -5913,12 +5913,12 @@ let data = affirm(); */
   },
 
   {
-    text: "I accept I‚Äôm learning to accept myself",
+    text: "I accept I'm learning to accept myself",
     author: "so mot hyt be!"
   },
 
   {
-    text: "I accept I can‚Äôt change some things",
+    text: "I accept I can't change some things",
     author: "so mot hyt be!"
   },
 
@@ -6043,7 +6043,7 @@ let data = affirm(); */
   },
   
   {
-    text: "The reality now is, I‚Äôm at my best and I‚Äôm not going to quit",
+    text: "The reality now is, I'm at my best and I'm not going to quit",
     author: "so mot hyt be!"
   },
   
