@@ -3237,22 +3237,22 @@ let data = affirm(); */
   },
 
   {
-    text: "You deserve love, laughter, freedom, and to feel amazing!",
+    text: "I deserve love, laughter, freedom, and to feel amazing!",
     author: "so mot hyt be!"
   },
 
   {
-    text: "You are worthy of all the tremendous joys that life has to offer.",
+    text: "I am worthy of all the tremendous joys that life has to offer.",
     author: "so mot hyt be!"
   },
 
   {
-    text: "Thank you for all the beautiful things you have done to make me happy.",
+    text: "Thanks for all the beautiful things I have done to make me happy.",
     author: "so mot hyt be!"
   },
 
   {
-    text: "Your positivity allows you to have a clarifying view of life.",
+    text: "My positivity allows me to have a clarifying view of life.",
     author: "so mot hyt be!"
   },
 
