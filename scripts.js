@@ -3856,7 +3856,7 @@ let data = affirm(); */
   },
 
   {
-    text: "Thank you, thank you, thank you!",
+    text: "I am thankful for everything in my life!",
     author: "so mot hyt be!"
   },
 
