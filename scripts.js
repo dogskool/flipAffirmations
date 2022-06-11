@@ -4964,7 +4964,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I am the best friend anyone can because I am loyal, loving, and understanding",
+    text: "I am the best friend anyone can be, because I am loyal, loving, and understanding",
     author: "so mot hyt be!"
   },
 
