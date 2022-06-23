@@ -6051,6 +6051,11 @@ let data = affirm(); */
     text: "Today, instead of being upset by all the things that are wrong, I will be thankful for all the things that are right.",
     author: "so mot hyt be!"
   },
+    
+  {
+    text: "I'm so pumped to consistently set and achieve meaningful extraordinary goals.",
+    author: "so mot hyt be!"
+  },
   
 ];
 
