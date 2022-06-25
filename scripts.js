@@ -5039,7 +5039,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I pat attention and listen to what my body tells me it needs to be healthy and vital",
+    text: "I pay attention and listen to what my body tells me it needs to be healthy and vital",
     author: "so mot hyt be!"
   },
 
