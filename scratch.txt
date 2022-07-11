@@ -1,0 +1,44 @@
+https://dogskool.github.io/flipAffirmations
+
+To create A records, point your apex domain to the IP addresses for GitHub Pages.
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+To create AAAA records, point your apex domain to the IP addresses for GitHub Pages.
+2606:50c0:8000::153
+2606:50c0:8001::153
+2606:50c0:8002::153
+2606:50c0:8003::153
+Warning: We strongly recommend not using wildcard DNS records, such as *.example.com. A wildcard DNS record will allow anyone to host a GitHub Pages site at one of your subdomains.
+
+.text{
+	font-size:18px;
+	padding-left:10px;
+	transition: 0.5s;
+	transition-timing-function: ease-in;
+	font-family: 'Arimo', serif;
+	font-style: bold;
+	background-image: linear-gradient(to right bottom, #85bb65, #85bb65);
+	color: transparent;
+	-webkit-background-clip: text;
+	text-decoration: underline;
+}
+
+.text{
+	font-size:18px;
+	padding-left:10px;
+	transition: 0.5s;
+	transition-timing-function: ease-in;
+	font-family: 'Arimo', serif;
+	font-style: bold;
+	color: #85bb65;
+	text-decoration: none;
+
+}
+
+.btn:active {
+   background-color: #CD001A;
+   box-shadow: 0 5px gray;
+   transform: translateY(2px);
+}
