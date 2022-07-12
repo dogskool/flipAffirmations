@@ -4679,7 +4679,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I love my parents, my siblings, extended family unconditionally and my",
+    text: "I love my parents, my siblings, extended family unconditionally",
     author: "so mot hyt be!"
   },
 
