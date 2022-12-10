@@ -5114,7 +5114,7 @@ let data = affirm(); */
   },
 
   {
-    text: "I am a loving person , successfully creating a a loving home environment",
+    text: "I am a loving person , successfully creating a loving home environment",
     author: "so mot hyt be!"
   },
 
