@@ -4694,12 +4694,12 @@ let data = affirm(); */
   },
 
   {
-    text: "I embrace happiness as my way of lookking at the world",
+    text: "I embrace happiness as my way of looking at the world",
     author: "so mot hyt be!"
   },
 
   {
-    text: "I embrace happiness as my way of lookking at the world",
+    text: "I embrace happiness as my way of looking at the world",
     author: "so mot hyt be!"
   },
 
